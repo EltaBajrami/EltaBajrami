@@ -17,7 +17,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elta Bajrami LinkedIn" height="30" width="40" />
   </a>
 
-   <a href="mailto:ebajrami@vassar.edu" target="_blank">
+   <a href="https://www.linkedin.com/in/eltabajrami/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
