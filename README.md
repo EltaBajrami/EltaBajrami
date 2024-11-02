@@ -20,7 +20,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail-Dark.svg" alt="Gmail" height="30" width="40" />
   </a>
 
-  <a href="https://skillicons.dev">
+  <a href="mailto:ebajrami@vassar.edu" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
