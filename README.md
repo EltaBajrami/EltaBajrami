@@ -13,14 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/eltabajrami/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elta Bajrami LinkedIn" height="30" width="40" />
-  </a>
-
    <a href="https://www.linkedin.com/in/eltabajrami/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:ebajrami@vassar.edu" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
