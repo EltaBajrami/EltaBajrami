@@ -19,6 +19,10 @@
   <a href="mailto:ebajrami@vassar.edu" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
   </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
