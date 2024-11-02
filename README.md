@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes, gmail" />
+    <img src="https://skillicons.dev/icons?i=git, gmail" />
   </a>
 </p>
 
