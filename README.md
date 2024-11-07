@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elta</h1>
-<h4 align="center">A Junior, studying Computer Science, Mathematics, and Sociology at Vassar College.</h4>
+<h4 align="center">A Junior, studying Computer Science & Mathematics at Vassar College.</h4>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=EltaBajrami&label=Profile%20views&color=0e75b6&style=flat" alt="EltaBajrami" /> 
